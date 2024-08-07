@@ -1,16 +1,14 @@
-## Hi there 👋
+## seja bem vindo 👋
 
-<!--
-**line2608/line2608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**_Meu nome é Aline P_** 
 
-Here are some ideas to get you started:
+- Sou uma estudante do [alura](https://www.alura.com.br)
+- utilizo essse espaço para organizar os meus projetos finalizados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*** Se precisar entrar em contato comigo 📫
+
+- Meus email ⬇️
+
+00001116841587sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/LF_8sYOAJfoAAAAC/b99gif-b99.gif)
